@@ -1,6 +1,7 @@
 .container {
     padding-top: 10px;
     background: beige;
+    /* height: 100vh; */
     display: flex;
     flex-wrap: wrap;
     /* flex-direction: row;  */
@@ -13,17 +14,17 @@
     border: 1px blue solid;
     width: 500px;
     height: 400px;
-    font-size: 40px;
+    font-size: 2em;
     text-align: center;
 }
 .item .tex {
     text-align: center;
-    font-size: 20px;
+    font-size: 0.7em;
 }
 
 .page {
     text-align: center;
-    font-size: 20px;
+    font-size: 1em;
 }
 
 .images {
