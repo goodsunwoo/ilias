@@ -1,19 +1,18 @@
-
 .container {
     padding-top: 10px;
     /* background: beige; */
     /* height: 100vh; */
     display: flex;
     flex-wrap: wrap;
-    /* flex-direction: row;  */
-    justify-content: space-evenly;
+    flex-direction: column; 
+    /* justify-content: space-evenly; */
     /* align-items: flex-start; */
     /* align-content: space-between; */
 }
 
 .item {
     border: 1px blue solid;
-    width: 500px;
+    width: 400px;
     height: 400px;
     font-size: 2em;
     text-align: center;
