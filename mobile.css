@@ -12,9 +12,9 @@
 
 .item {
     border: 1px blue solid;
-    width: 400px;
+    width: 300px;
     height: 400px;
-    font-size: 2em;
+    font-size: 1.2em;
     text-align: center;
 }
 .item .tex {
