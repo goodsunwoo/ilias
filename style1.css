@@ -23,10 +23,14 @@
 }
 
 .page {
+    font-weight: bold;
     text-align: center;
     font-size: 1em;
 }
 
 .images {
     text-align: center;
+}
+.item p {
+    font-size: 0.8em;
 }
