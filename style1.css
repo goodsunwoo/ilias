@@ -1,7 +1,6 @@
 .container {
     padding-top: 10px;
     background: beige;
-    height: 100vh;
     display: flex;
     flex-wrap: wrap;
     /* flex-direction: row;  */
